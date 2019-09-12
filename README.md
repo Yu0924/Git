@@ -9,3 +9,5 @@ https://www.amazon.co.jp/わかばちゃんと学ぶ-Git使い方入門%E3%80%88
 
 ![ゼロワン](https://user-images.githubusercontent.com/54468393/64118403-8d5cb480-cdd2-11e9-93c2-5cfa28172718.jpg)
 9月1日　仮面ライダーゼロワン　第一話放送
+
+Mayaの勉強をするため、学生版のMayaをインストール
